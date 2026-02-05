@@ -1,4 +1,4 @@
-## Khay Phim
+## Giỏ Phim
 
 Ở đây không có phim hay, chỉ có Adblock X chặn mọi quảng cáo thôi nha!
 - Link tải về Adblock X trên máy tính: [Chrome Extension / Edge Extension](https://chromewebstore.google.com/detail/adblock-x/keaancgpaejemcbckfifgjmjnpelmhdj?authuser=0&hl=vi)
